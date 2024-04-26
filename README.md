@@ -7,6 +7,10 @@ Para ejecutar el microservicio, necesitarás:
 - **Java 17** o superior
 - **Apache Maven** para compilación y ejecución
 
+## Collection Postman
+- [PROJECT02.postman_collection.json](PROJECT02.postman_collection.json)
+- [Desarrollo.postman_environment.json](Desarrollo.postman_environment.json)
+
 ## Configuración
 El microservicio usa valores de entorno para la configuración. Antes de ejecutar el microservicio, asegúrate de definir estos valores clave:
 - **DATABASE_URL**: URI para conectar a la base de datos.
